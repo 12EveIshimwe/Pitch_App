@@ -15,7 +15,7 @@ None
 * Adding comments.
 
 ## Input
-* 1.On page load,
+* 1.Enter your email address.
 * 2.Click a news source.
 * 3.On page load,
 * 4.The user will delete a user account.
