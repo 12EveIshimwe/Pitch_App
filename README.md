@@ -1,5 +1,5 @@
 ##60 Sec Pitch 
-Built Byiiii Eve Ishimwe
+Built By Eve Ishimwe
 
 ## Description
 60 sec Pitch App is an application whereby someone will have to post a short message for someone for only 30 seconds. Users will be able to vote and downvote and make some comments on any pitch in the app. And more they would also mpsot their own pitch for viewers to see. 
