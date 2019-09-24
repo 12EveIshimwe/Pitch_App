@@ -22,7 +22,7 @@ None
 * 5.Upvote and Downvote it and make a comment.
 
 ## Output
-* 1.List of various news sources is displayed.
+* 1.Categories of pitches.
 * 2.Each article displays an image,title and description.
 * 3.Redirect to a page with a list of articles.
 * 4.Go to the newssite to read entire article.
