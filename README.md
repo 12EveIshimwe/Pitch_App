@@ -26,7 +26,7 @@ None
 * 2.Username.
 * 3.The pitch and a way to upvote and downvote it.
 * 4.Comment on a pitch.
-
+* 5.SignIn and SignOut.
 
 ## Expectations
 * 1.The user will see news various news.
