@@ -28,14 +28,6 @@ None
 * 4.Comment on a pitch.
 * 5.SignIn and SignOut.
 
-## Expectations
-* 1.The user will be able to signin for viewing pitches or post a pitch..
-* 2.The user will select the ones they prefer.
-* 3.The user see all new sources from the source they selected.
-* 4.The user will see image description.
-* 5.The user will see  image time the article has been created.
-* 6.For any comment,booking or any kind of message to our Studio,please fill the contact us page. 
-
 ## Bugs:
 None
 
