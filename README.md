@@ -25,7 +25,8 @@ None
 * 1.Categories of pitches.
 * 2.Username.
 * 3.The pitch and a way to upvote and downvote it.
-* 4.Go to the newssite to read entire article.
+* 4.Comment on a pitch.
+
 
 ## Expectations
 * 1.The user will see news various news.
