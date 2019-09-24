@@ -23,7 +23,7 @@ None
 
 ## Output
 * 1.Categories of pitches.
-* 2.Username.
+* 2.User.
 * 3.The pitch and a way to upvote and downvote it.
 * 4.Comment on a pitch.
 * 5.SignIn and SignOut.
