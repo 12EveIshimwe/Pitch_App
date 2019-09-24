@@ -11,7 +11,7 @@ None
 * Display pitches category.
 * Display pitches.
 * Login form.
-* Adding category.
+* Add category.
 * Adding comments.
 
 ## Input
