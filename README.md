@@ -16,7 +16,7 @@ None
 
 ## Input
 * 1.Enter your email address.
-* 2.Click a news source.
+* 2.Enter password.
 * 3.On page load,
 * 4.The user will delete a user account.
 
