@@ -10,7 +10,7 @@ None
 ## BDD
 * Display pitches category.
 * Display pitches.
-* Login form.
+* Login .
 * Adding category.
 * Adding comments.
 
