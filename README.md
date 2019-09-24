@@ -24,7 +24,7 @@ None
 ## Output
 * 1.Categories of pitches.
 * 2.Username.
-* 3.Redirect to a page with a list of articles.
+* 3.The pitch and a way to upvote and downvote it.
 * 4.Go to the newssite to read entire article.
 
 ## Expectations
