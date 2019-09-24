@@ -29,7 +29,7 @@ None
 * 5.SignIn and SignOut.
 
 ## Expectations
-* 1.The user will see news various news.
+* 1.The user will be able to signin for viewing pitches or post a pitch..
 * 2.The user will select the ones they prefer.
 * 3.The user see all new sources from the source they selected.
 * 4.The user will see image description.
@@ -42,7 +42,8 @@ None
 ## Technologies Used:
 * Python3.6
 * Flask 
-* Bootstrap  
+* Bootstrap 
+* Database 
 
 ## Contact Details:
 * Email:eveish@gmail.com
