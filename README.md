@@ -23,7 +23,7 @@ None
 
 ## Output
 * 1.Categories of pitches.
-* 2.Each article displays an image,title and description.
+* 2.Username.
 * 3.Redirect to a page with a list of articles.
 * 4.Go to the newssite to read entire article.
 
