@@ -19,6 +19,7 @@ None
 * 2.Enter password,
 * 3.Submit the form.
 * 4.Write down the pitch.
+* 5.Upvote and Downvote it.
 
 ## Output
 * 1.List of various news sources is displayed.
