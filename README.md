@@ -9,9 +9,10 @@ None
 
 ## BDD
 * Display pitches category.
-* Di
-* Display the preview of an article.
-* Read an entire article
+* Display pitches.
+* Login form.
+* Adding category.
+* Adding comments.
 
 ## Input
 * 1.On page load,
