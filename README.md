@@ -15,9 +15,9 @@ None
 * Adding comments.
 
 ## Input
-* 1.Enter your email address.
-* 2.Enter password.
-* 3.On page load,
+* 1.Enter your email address,
+* 2.Enter password,
+* 3.Submit the form.
 * 4.The user will delete a user account.
 
 ## Output
