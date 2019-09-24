@@ -35,7 +35,7 @@ None
 * Python3.6
 * Flask 
 * Bootstrap 
-* Database 
+* Data 
 
 ## Contact Details:
 * Email:eveish@gmail.com
