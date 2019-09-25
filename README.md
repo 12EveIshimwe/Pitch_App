@@ -1,4 +1,4 @@
-##60 Sec Pitch 
+## 60 Sec Pitch 
 
 Built By Eve Ishimwe
 
